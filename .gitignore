@@ -1,0 +1,14 @@
+# Eclipse
+.settings
+.project
+.checkstyle
+.classpath
+.mvn
+
+# IntelliJ
+/.idea/*
+*.iml
+
+# Generated Sources
+/target/*
+*/target/
