@@ -8,6 +8,11 @@ public class Methods2 {
     }
 
     static void lines(int len, char c) {
+
+        if (c == ' ' || c == '\t') {
+            return;
+        }
+
         for (int i = 0; i < len; i++) {
             printChar(c);
         }
