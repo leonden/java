@@ -1,3 +1,5 @@
+package ch.course;
+
 public class OopNew {
     public static void main(String[] args) {
 
@@ -23,6 +25,7 @@ public class OopNew {
 
         // Reference type           Object type
         java.awt.Polygon polygon = new java.awt.Polygon();
+        
 
     }
 }
