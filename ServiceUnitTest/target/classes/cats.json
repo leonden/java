@@ -1,0 +1,20 @@
+{
+  "cats" : [
+    {
+      "name" : "Johny",
+      "age" : 3
+    },
+    {
+      "name" : "Amanda",
+      "age" : 5
+    },
+    {
+      "name" : "Max",
+      "age" : 6
+    },
+    {
+      "name" : "Katze :3",
+      "age" : 3
+    }
+  ]
+}
